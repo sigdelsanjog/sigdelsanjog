@@ -11,4 +11,4 @@
 - 🤔 I'm an Open Source Contributor here in Nepal representing KUOSC and FOSS Nepal
 - 💬 I write blogs at <a href="http://thequickblog.com">TheQuickBlog </a> ...
 - 📫 How to reach me: Mail: sigdelsanjog@gail.com
-- ⚡ Blog: <a href="sigdelsanjog.com.np">sigdelsanjog.com.np </a>
+- ⚡ Blog: <a href="http://sigdelsanjog.com.np">sigdelsanjog.com.np </a>
