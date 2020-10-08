@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on Open Source Project which focuses on HealthCare(Informatics and AI/ML)
 - 🤔 I'm an Open Source Contributor here in Nepal representing KUOSC and FOSS Nepal
 - 💬 I write blogs at <a href="http://thequickblog.com">TheQuickBlog </a>
-- 📫 How to reach me: Mail: sigdelsanjog@gail.com
+- 📫 How to reach me: Mail: sigdelsanjog@gmail.com
 - ⚡ Blog: <a href="http://sigdelsanjog.com.np">sigdelsanjog.com.np </a>
