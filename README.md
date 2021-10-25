@@ -1,12 +1,14 @@
 ## Namaste From Nepal 🙏🙏🙏
-## KUOSC, Wikipedia, LibreOffice, Ubuntu L10N, Kathmandu University
+:raised_hands::raised_hands::raised_hands: Always open to collaborate on Open Source Projects. Feel free to connect/write to me with your prject ideas. We will take it forward with a coffee talk or a virtual meet!:raised_hands::raised_hands::raised_hands:
 
-- 💻🛠⚙️ DevOps Engineer at Cotiviti, Nepal
-- 🔭 Currently working at NIST College, Banepa as a CSIT Lecturer(Contract Based).
-- ✨ Computer Science Student here at Kathmandu University.(MTect.IT-2020, Thesis on Gait Pattern Analysis)
-- 🌱 Love Python. Currently learning Django and Flutter.
-- 👯 Looking forward to collaborate on Open Source Project which focuses on HealthCare(Informatics and AI/ML)
-- 🤔 Open Source Contributor here in Nepal representing KUOSC and FOSS Nepal
+- :computer:🛠⚙️ DevOps Engineer at Cotiviti, Nepal
+- :books: CSIT, BIM Lecturer, NIST College, Banepa(Contract Based).
+- :mortar_board:✨ Computer Science Alumni From Kathmandu University(BSc. CS, MTect.IT).
+- 🌱 Love Python. Currently Working on Django Projects and learning Flutter.
+- :octocat: Open Source Contributor here in Nepal representing KUOSC and FOSS Nepal
 - 💬 Blogger at <a href="http://thequickblog.com">TheQuickBlog </a>
-- 📫 Mail: sigdelsanjog@gmail.com
-- ⚡ <a href="http://sigdelsanjog.com.np">sigdelsanjog.com.np </a>
+- 📫⚡ Mail: sigdelsanjog@gmail.com,
+- <a href="http://sigdelsanjog.com.np">sigdelsanjog.com.np </a> || LinkedIn/<a href="https://www.linkedin.com/in/sigdelsanjog/">sigdelsanjog</a>
+
+- 👯 Looking forward to collaborate on Projects which focuses on HealthCare(Informatics and AI/ML).
+    - **Skills I am willing to contribute:** Idea Development and Planning, Project Management, Feature Creation, Architecture Development, Web App and WebAPI design and development using Django and DjangoRestFramework
