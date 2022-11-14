@@ -1,7 +1,7 @@
 ## Namaste From Nepal 🙏🙏🙏
 :raised_hands::raised_hands::raised_hands: Always open to collaborate on Open Source Projects. Feel free to connect/write to me with your prject ideas. We will take it forward with a coffee talk or a virtual meet!:raised_hands::raised_hands::raised_hands:
 
-- :computer:🛠⚙️ DevOps Engineer at Cotiviti, Nepal
+- :computer:🛠⚙️ Project Manager, Previously DevOps Engineer at Cotiviti, Nepal
 - :books: CSIT, BIM Lecturer, NIST College, Banepa(Contract Based).
 - :mortar_board:✨ Computer Science Alumni From Kathmandu University(BSc. CS, MTect.IT).
 - 🌱 Love Python. Currently Working on Django Projects and learning Flutter.
