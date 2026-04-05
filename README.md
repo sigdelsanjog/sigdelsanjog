@@ -13,6 +13,6 @@
 
 Say hello in [LinkedIn](https://www.linkedin.com/in/sigdelsanjog/) and lets collaborate.
 
-### If you are my student from Kathmandu University, feel free to say hello when you see me around. I would love to help you clear your doubts. Not about the academics (that's something for our regular lecture), but about navigating your future. 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sigdelsanjog&label=Profile%20views&color=0e75b6&style=flat" alt="sigdelsanjog" /> </p>
